@@ -12,5 +12,3 @@ Virtnumber rents dedicated virtual phone numbers in 14 countries, one number to 
 - Free temporary phone numbers to receive SMS online: [virtnumber.com/freesmsreceive](https://www.virtnumber.com/freesmsreceive)
 - API and MCP reference: [virtnumber.com/developer](https://www.virtnumber.com/developer)
 - Support: support@virtnumber.com
-
-Operated by Getcom OU, Tallinn, Estonia.
